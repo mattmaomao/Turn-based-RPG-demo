@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"The best weaopn you can get...","effects":[],"hitType":0,"iconIndex":97,"itypeId":1,"name":"Noraml Sword","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"The book record all enemy you discovered.\nHowever you can't understand the words...","effects":[{"code":44,"dataId":1,"value1":1,"value2":0}],"hitType":0,"iconIndex":186,"itypeId":1,"name":"Bestiary","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
+]

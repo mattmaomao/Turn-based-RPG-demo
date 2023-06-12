@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["$gameSystem.scriptCallEx('bestiary');"]},{"code":0,"indent":0,"parameters":[]}],"name":"Bestiary","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"name":"debug","switchId":1,"trigger":0}
+]
